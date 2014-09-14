@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chapter05_Singleton"/>
+	<classpathentry kind="src" path="chapter07_Builder"/>
+	<classpathentry kind="src" path="chapter01_Iterator"/>
+	<classpathentry kind="src" path="chapter02_Adapter"/>
+	<classpathentry kind="src" path="chapter03_TemplateMethod"/>
+	<classpathentry kind="src" path="chapter04_factorymethod"/>
+	<classpathentry kind="src" path="chapter06_Prototype"/>
+	<classpathentry kind="src" path="chapter08_AbstractFactory"/>
+	<classpathentry kind="src" path="chapter09_Bridge"/>
+	<classpathentry kind="src" path="chapter10_Strategy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
