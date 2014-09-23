@@ -10,6 +10,8 @@
 	<classpathentry kind="src" path="chapter08_AbstractFactory"/>
 	<classpathentry kind="src" path="chapter09_Bridge"/>
 	<classpathentry kind="src" path="chapter10_Strategy"/>
+	<classpathentry kind="src" path="chapter11_Composite"/>
+	<classpathentry kind="src" path="chapter12_Decorator"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
