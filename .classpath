@@ -16,6 +16,8 @@
 	<classpathentry kind="src" path="chapter17_Observer"/>
 	<classpathentry kind="src" path="chapter18_Memento"/>
 	<classpathentry kind="src" path="chapter20_Flyweight"/>
+	<classpathentry kind="src" path="chapter22_Command"/>
+	<classpathentry kind="src" path="chapter23_Interpreter"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
